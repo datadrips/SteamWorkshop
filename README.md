@@ -1,3 +1,5 @@
-# Meat Is Murder! Workshop images
+# Steam Workshop assets
 
-Pictures for the Steam Workshop page of Meat Is Murder! (Project Zomboid, item 3816739246). Drawn from the mod's item icons.
+Pictures and page assets for Steam Workshop items, one folder per game, mod and item.
+
+- `ProjectZomboid/Mods/MeatIsMurder!/`: Meat Is Murder! (item 3816739246), drawn from the mod's item icons.
